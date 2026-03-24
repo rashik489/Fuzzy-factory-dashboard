@@ -62,15 +62,7 @@ This dataset allows the dashboard to replicate a realistic business intelligence
 
  Overview Page
 
-*(Add screenshot here)*
-
-### Performance Page
-
-*(Add screenshot here)*
-
-### Revenue Analysis Page
-
-*(Add screenshot here)*
+https://github.com/rashik489/Fuzzy-factory-dashboard/blob/main/Dashboard%20overview.png
 
 
 🚀 What This Project Demonstrates
