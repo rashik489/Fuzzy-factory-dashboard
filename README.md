@@ -62,7 +62,7 @@ This dataset allows the dashboard to replicate a realistic business intelligence
 
  Overview Page
 
-https://github.com/rashik489/Fuzzy-factory-dashboard/blob/main/Dashboard%20overview.png
+![Overview](https://github.com/rashik489/Fuzzy-factory-dashboard/blob/main/Dashboard%20overview.png)
 
 
 🚀 What This Project Demonstrates
